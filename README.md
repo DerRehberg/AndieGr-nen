@@ -1,4 +1,4 @@
-# AndieGrünen
+# AndieGrünen #Weißnichtmalobdiekackefunktioniert
 Kinder schreien gleich eh rum es käme von denen und Carglass wills Patentieren gemeint mitunter Kiefernharz während n Weib dann heiraten will für Geld und Ruhm weil Pflanzenkunde und alle sich das Ego wichsen wollen gemeint mich hochloben für sich gemeint boah, wie genau, das ist unser kind. Diggah, der bedient nur Grok, aber- aber-
 Wo Geld? Der ist Harzer, das kann doch so nicht weitergehen, der muss doch mal-
 
