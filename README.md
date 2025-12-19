@@ -1,5 +1,6 @@
 # AndieGrünen
-Kinder schreien gleich eh rum es käme von denen und Carglass wills Patentieren gemeint mitunter Kiefernharz
+Kinder schreien gleich eh rum es käme von denen und Carglass wills Patentieren gemeint mitunter Kiefernharz während n Weib dann heiraten will für Geld und Ruhm weil Pflanzenkunde und alle sich das Ego wichsen wollen gemeint mich hochloben für sich gemeint boah, wie genau, das ist unser kind. Diggah, der bedient nur Grok, aber- aber-
+Wo Geld? Der ist Harzer, das kann doch so nicht weitergehen, der muss doch mal-
 
 "Rezept und Bauanleitung für ein pflanzliches Pentermobile mit Sauerstoffumwandlung und Steckdosenanschluss:
 1. Basis-Pflanzenmaterial (Sauerstoffproduktion):
@@ -25,3 +26,32 @@ Vorbereitung: Schlauch an den Reaktor anschließen, um überschüssigen Sauersto
 5. Zusammenbau und Test:
 
 Alles in einem stabilen Gehäuse (z. B. Acrylbox, 50x30x30 cm) montieren. Reaktor und Algenbehälter nebeneinander fixieren, Kabel und Schläuche sauber verlegen. Testlauf: 48 Stunden laufen lassen, Spannung an der Steckdosenleiste messen (sollte bei 0,5-1 Volt stabil sein). Sauerstoffproduktion überprüfen, indem du ’ne Kerze in der Nähe des Auslasses hältst – Flamme sollte heller brennen."
+
+-
+-
+-
+
+
+1. Basis-Pflanzenmaterial (Sauerstoffproduktion und Energiegrundlage):
+
+Material: Spinacia oleracea (Spinat), 5 kg frische Blätter; Chlorophyll-Extrakt (100 ml, industriell gewonnen).
+Vorbereitung: Spinatblätter fein hacken und in einem 10-Liter-Behälter mit 5 Litern destilliertem Wasser vermengen. Chlorophyll-Extrakt hinzufügen, um die Photosynthese-Effizienz zu steigern. Behälter mit LED-Licht (6500K, 100 Watt) 24 Stunden beleuchten. Temperatur auf 22-25 °C halten. Sauerstoff wird freigesetzt, überschüssige Energie aus Chlorophyll-Reaktionen wird genutzt.
+
+2. Energiegewinnung (Photovoltaisches Pflanzenmodul):
+
+Material: Organische Farbstoffe aus Spinat-Chlorophyll (selbst extrahiert); Titandioxid (TiO2, 200 g); Graphitplatte (20x20 cm, 3 mm dick); Kupferfolie (20x20 cm, 1 mm dick).
+Vorbereitung: Chlorophyll aus Spinatblättern extrahieren (Blätter in 500 ml Ethanol 80% für 2 Stunden bei 60 °C einlegen, dann filtrieren). TiO2-Paste auf Graphitplatte auftragen (Dicke: 10 Mikrometer), bei 450 °C für 30 Minuten sintern. Chlorophyll-Lösung auf die TiO2-Schicht auftragen, 24 Stunden trocknen lassen. Kupferfolie als Gegenelektrode darüberlegen, mit 1 mm Abstand. Ergebnis: Organische Solarzelle mit pflanzlicher Basis, Output ca. 1 Volt und 200 mA pro Modul. 10 Module parallel schalten für 200 Watt bei 12 Volt.
+
+3. Ground-Anschluss und Steckdosenleiste:
+
+Material: Kupferkabel (3 Meter, 4 mm² Querschnitt); Steckdosenleiste (6-fach, mit Erdung); DC-AC-Wechselrichter (12V zu 230V, 300 Watt).
+Vorbereitung: Kabel von den Modulen zum Wechselrichter führen, dann zur Steckdosenleiste. Erdung über ein separates Kabel (1 Meter) an einem Metallstab im Boden sichern. Alles mit Isolierband abkleben, um Kurzschlüsse zu vermeiden. Output stabil bei 200 Watt, genug für kleine Geräte wie Lampen oder Ladegeräte.
+
+4. Sauerstoffabführung:
+
+Material: Silikonschlauch (2 Meter, 5 mm Durchmesser); kleiner Ventilator (12 Volt, 10 Watt).
+Vorbereitung: Schlauch an den Behälter anschließen, um überschüssigen Sauerstoff abzuleiten. Ventilator am Ende montieren, um den Fluss zu steuern. Sauerstoff kann in die Umgebung oder in einen geschlossenen Raum geleitet werden.
+
+5. Zusammenbau und Test:
+
+Alles in einem robusten Gehäuse (z. B. Holz- oder Acrylbox, 60x40x40 cm) montieren. Module und Behälter sicher fixieren, Kabel und Schläuche ordentlich verlegen. Testlauf: 24 Stunden laufen lassen, Spannung an der Steckdosenleiste messen (sollte bei 230V stabil sein, Output 200 Watt). Sauerstoffproduktion prüfen, indem du ’ne Kerze nah am Auslass hältst – Flamme sollte intensiver brennen."
